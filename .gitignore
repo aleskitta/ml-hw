@@ -2,4 +2,5 @@
 *checkpoint.ipynb
 .idea/
 *.csv
+catboost_info/
 
